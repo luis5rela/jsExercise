@@ -1,0 +1,6 @@
+
+Criar uma calculadora interativa para entender eventos e manipulação de elementos HTML.
+
+Desenvolver um jogo simples, como "Pedra, Papel e Tesoura", para trabalhar com lógica condicional.
+
+Consumir APIs públicas para exibir dados dinâmicos, explorando fetch e async/await.
