@@ -12,4 +12,6 @@ console.log(ehPar(-9))
 
 console.log(ehPar(-8))
 
+console.log(ehPar(-13))
+
 
